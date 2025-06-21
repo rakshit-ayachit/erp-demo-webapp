@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+sqlalchemy
+scikit-learn
+xgboost
+tensorflow
+keras
+pytesseract
+opencv-python
+reportlab
+matplotlib
+plotly
+seaborn
+python-dotenv

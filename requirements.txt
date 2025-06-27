@@ -1,3 +1,13 @@
-streamlit==1.0.0
+﻿
+streamlit
 numpy
 tensorflow
+transformers
+Pillow
+pytesseract
+nltk
+pandas
+PyMuPDF
+passlib
+opencv-python-headless
+tf-keras

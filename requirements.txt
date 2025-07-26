@@ -1,5 +1,5 @@
 plotly
 sqlalchemy
 reportlab
-tensorflow-cpu==2.11.0
+tensorflow==2.13.0
 
